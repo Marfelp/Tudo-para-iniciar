@@ -1,0 +1,7 @@
+.flex-container{
+    display: flex;
+}
+.flex-item1 {
+    
+    order: 2; /* o valor padrão é 0 */
+  }
